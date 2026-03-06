@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md. Badruzzaman and my nick name is Liton, Software Development Manager.
+- 👋 Hi, I’m Md. Badruzzaman and my nick name is Liton, Senior Executive Officer(SEO)/Manager, ICT Division, Modhumoti Bank PLC.
 - 👀 I’m interested in ... Lerning new and newer technologies
 - 🌱 I’m currently learning and working ... Developing a Core Banking Solution(CBS), usning technology are ASP.NET Core 8, Blazor, and Oracle. I also learning update ASP.NET Core framework, Scripting languages and others programming language like JAVA, python etc.
 - 💞️ I’m looking to collaborate on ... Share my programming knowledge to others person/companies.
